@@ -3,9 +3,10 @@
 import addition as a
 import subtraction as s
 import multiplication as m
+import division as d
 
 print("Addition result= ", a.add(5,6))
 print("Subtraction result= ", s.sub(5,6))
 print("Multiplication result= ", m.mul(5,6))
+print("Division result= ", d.div(5,6))
 
-#call divion function
